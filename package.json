@@ -1,0 +1,20 @@
+{
+  "name": "jsdb",
+  "version": "0.0.0",
+  "description": "a database built with javascript for javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsdb",
+    "database",
+    "javascript",
+    "json",
+    "realtime",
+    "encrypted",
+    "sha-256"
+  ],
+  "author": "Lluie Cain Andaya",
+  "license": "ISC"
+}
